@@ -1,2 +1,4 @@
-# Vendra
-A free modular-productivity platform created to make offline editing easier.
+## License
+
+Vendra™ is free for commercial and personal use, but redistribution, rehosting, modification, or reselling is not allowed.  
+See the [LICENSE](LICENSE) file for full terms.
